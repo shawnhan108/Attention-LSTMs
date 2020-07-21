@@ -1,7 +1,7 @@
 # rnn-chopin-waltz-generation
 
 ## Model
-Generating music using a __Recurrent Neural Network (RNN) model with LSTM and dense layers__, trained on 10 pieces of Frédéric Chopin's Waltz/Valse pieces and 9 pieces of Chopin's Nocturne pieces separately.
+Generating music using a __Recurrent Neural Network (RNN) model with LSTM and dense layers__, implemented in Tensorflow/Keras and trained on 10 pieces of Frédéric Chopin's Waltz/Valse pieces and 9 pieces of Chopin's Nocturne pieces separately.
 
 ## Dataset
 * 10 Valse/Waltz pieces in MIDI: [kunstderfuge.com](kunstderfuge.com)
