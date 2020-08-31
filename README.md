@@ -1,4 +1,4 @@
-# Attention! LSTM
+# Attention! LSTMs
 A set of notebooks that explores the power of Recurrent Neural Networks (RNNs), with a focus on LSTM, BiLSTM, seq2seq, and Attention.
 
 ## English to Italian Machine Translation with BiLSTM and Attention
